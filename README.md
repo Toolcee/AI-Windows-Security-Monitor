@@ -1,4 +1,4 @@
-# AI Windows Security Monitor
+# AI Windows Security Monitor v1.0
 
 Herramienta de monitoreo de seguridad para Windows desarrollada en Python.
 
