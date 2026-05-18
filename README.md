@@ -78,9 +78,9 @@ El monitor detecta patrones asociados a:
 
 ### Deteccion activa
 
-<img width="1916" height="1028" alt="alerts-deteccion-on" src="https://github.com/user-attachments/assets/003d8ec0-3863-44f0-986f-6ff0bd208f4a" />
-
 <img width="1917" height="1027" alt="alerts-deteccion-off" src="https://github.com/user-attachments/assets/90022714-8eae-44e1-bbdc-980e9218421f" />
+
+<img width="1916" height="1028" alt="alerts-deteccion-on" src="https://github.com/user-attachments/assets/003d8ec0-3863-44f0-986f-6ff0bd208f4a" />
 
 ---
 
